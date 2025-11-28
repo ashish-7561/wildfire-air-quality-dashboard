@@ -5,7 +5,3 @@ plotly
 folium
 streamlit-folium
 requests
-matplotlib
-scipy
-pillow
-geopy
